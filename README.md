@@ -26,9 +26,13 @@ Data Link: Kaggle - Customer Clustering or Mall Customer Segmentation
 No explicit target (unsupervised; used for business segmentation)
 
 Phase 1: Fraud Detection - Data Preparation
+
 Phase 2: Train & Compare Classification Models
+
 Phase 3: Optimize Fraud Detection Threshold
+
 Phase 4: Customer Segmentation with Clustering
+
 Phase 5: Visualizations & Actionable Insights
 
 **Tools & Libraries**
